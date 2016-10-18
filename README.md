@@ -65,5 +65,14 @@ Luancher基本功能包括参照正常android手机，如排列所有App，添�
 
 
 ### 5.总结
-	开发时桌面功能参照 Apus开发，穆斯林功能参照IMuslim穆斯林助手，项目本地地址，白色mac上/Users/changfeng/Documents/git/muslimlauncher,不清楚的地方参照注释和源码。附件是一些我以前下的参考项目，图片资源，项目文档，网页书签，或许对开发有帮助。
+	开发时桌面功能参照 Apus开发，穆斯林功能参照IMuslim穆斯林助手,不清楚的地方参照注释和源码。附件是一些我以前下的参考项目，图片资源，项目文档，网页书签，或许对开发有帮助。
+	
+### 附.原型
+![image](https://raw.githubusercontent.com/chendd/MuslimLauncher/master/%E9%A1%B9%E7%9B%AE%E5%8E%9F%E5%9E%8B/iLauncher_png/%E4%B8%BB%E7%95%8C%E9%9D%A2.png)
+
+![image](https://raw.githubusercontent.com/chendd/MuslimLauncher/master/%E9%A1%B9%E7%9B%AE%E5%8E%9F%E5%9E%8B/iLauncher_png/%E5%85%A8%E5%B1%80%E6%90%9C%E7%B4%A2.png)
+
+![image](https://raw.githubusercontent.com/chendd/MuslimLauncher/master/%E9%A1%B9%E7%9B%AE%E5%8E%9F%E5%9E%8B/iLauncher_png/%E6%82%AC%E6%B5%AE%E6%8C%89%E9%92%AE.png)
+
+![image](https://github.com/chendd/MuslimLauncher/blob/master/%E9%A1%B9%E7%9B%AE%E5%8E%9F%E5%9E%8B/iLauncher_png/%E8%8F%9C%E5%8D%95%E8%AE%BE%E7%BD%AE.png?raw=true)
     
